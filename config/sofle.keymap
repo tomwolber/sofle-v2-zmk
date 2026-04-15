@@ -14,7 +14,7 @@
 #define LOWER 1
 #define RAISE 2
 #define ADJUST 3
-#define ADJUST 4
+#define ULTRA 4
 
 / {
     // Activate ADJUST layer by pressing raise and lower
